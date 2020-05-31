@@ -21,6 +21,9 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 ### 정답
 
 (여기에 버그를 유발한 커밋의 id와 어떻게 하면 버그를 수정할 수 있는지 적어주세요.)
+dmcinnes committed on 3 Mar 2010 
+1 parent e2ecf58 commit 18b3f7cc65c715b97cafa908d788c1dc2738c318
+ 
 
 ### 힌트
 
